@@ -1,2 +1,1 @@
-# link-shortener-typescript
-A Simple URL Shortener built using TypeScript and Nest.js
+# A Sample URL Shortener application built using TypeScript and Nest.js
