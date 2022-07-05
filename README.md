@@ -31,7 +31,7 @@ Here's the response:
  {"hash":"l6r71d"}
 ```
 
-The hash might differ on your machine. You can use it to redirect to the original link. Open a web browser and visit localhost:3000/l6r71d to access the official Docker website.
+The hash might differ on your machine. You can use it to redirect to the original link. Open a web browser and visit ```http://localhost:3000/l6r71d``` to access the official Docker website.
 
 
 ## Build From Scratch
