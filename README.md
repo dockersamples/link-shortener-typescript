@@ -1,6 +1,6 @@
 # Example URL Shortener
 
-Building a sample URL shortener using TypeScript, Nest and Docker
+Building a sample URL shortener using TypeScript, Nest and Docker Desktop
 
 ## Getting started
 
