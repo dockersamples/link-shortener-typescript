@@ -1,4 +1,19 @@
-# Link Shortener
+# Example URL Shortener
+
+Building a sample URL shortener using TypeScript, Nest and Docker
+
+## Getting started
+
+Download Docker Desktop for Mac, Linux and Windows. Docker Compose will be automatically installed. 
+
+If you're using Docker Desktop on Windows, you can run the Linux version by switching to Linux containers, or run the Windows containers version.
+
+
+## Running the application
+
+```
+ docker compose up -d –build
+```
 
 ## Build From Scratch
 
