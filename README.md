@@ -1,10 +1,10 @@
 # Example URL Shortener
 
-Building a sample URL shortener using TypeScript, Nest and Docker Desktop
+Building a sample URL shortener using [TypeScript](https://www.typescriptlang.org/), [Nest](https://nestjs.com/) and Docker Desktop
 
 ## Getting started
 
-Download Docker Desktop for Mac, Linux and Windows. Docker Compose will be automatically installed. 
+Download Docker Desktop for [Mac](https://desktop.docker.com/mac/main/amd64/Docker.dmg?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=module) , [Linux](https://docs.docker.com/desktop/linux/install/) and [Windows](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=header). Docker Compose will be automatically installed. 
 
 If you're using Docker Desktop on Windows, you can run the Linux version by switching to Linux containers, or run the Windows containers version.
 
