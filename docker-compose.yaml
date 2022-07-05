@@ -1,0 +1,26 @@
+services:
+  redis:
+    image: 'redis/redis-stack'
+    ports:
+      - '6379:6379'
+      - '8001:8001'
+    networks:
+      - urlnet
+  dev:
+    build:
+      context: ./backend/link-shortener
+      dockerfile: Dockerfile
+    environment:
+      REDIS_HOST: redis
+      REDIS_PORT: 6379
+    ports:
+      - '3000:3000'
+    volumes:
+      - './backend/link-shortener:/app'
+    depends_on:
+      - redis
+    networks:
+      - urlnet
+
+networks:
+  urlnet:
