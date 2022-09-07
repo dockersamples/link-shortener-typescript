@@ -2,6 +2,9 @@
 
 Building a sample URL shortener using [TypeScript](https://www.typescriptlang.org/), [Nest](https://nestjs.com/) and Docker Desktop
 
+![image](https://user-images.githubusercontent.com/313480/188790516-78e8ce45-baaa-4c3f-938c-17c779155883.png)
+
+
 ## Getting started
 
 Download Docker Desktop for [Mac](https://desktop.docker.com/mac/main/amd64/Docker.dmg?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=module) , [Linux](https://docs.docker.com/desktop/linux/install/) and [Windows](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=header). Docker Compose will be automatically installed. 
