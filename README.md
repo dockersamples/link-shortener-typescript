@@ -2,7 +2,8 @@
 
 Building a sample URL shortener using [TypeScript](https://www.typescriptlang.org/), [Nest](https://nestjs.com/) and Docker Desktop
 
-![image](https://user-images.githubusercontent.com/313480/188790516-78e8ce45-baaa-4c3f-938c-17c779155883.png)
+![image](https://user-images.githubusercontent.com/313480/188790641-313792c0-99a5-4084-8d68-82057b3dc6fb.png)
+
 
 
 ## Getting started
