@@ -1,9 +1,11 @@
 # Example URL Shortener
 
+
+
+
+[![URL Shortener](https://img.youtube.com/vi/RqL24zTrIlM/hqdefault.jpg)]([https://www.youtube.com/embed/RqL24zTrIlM](https://www.youtube.com/watch?v=RqL24zTrIlM))
+
 Building a sample URL shortener using [TypeScript](https://www.typescriptlang.org/), [Nest](https://nestjs.com/) and Docker Desktop
-
-![image](https://user-images.githubusercontent.com/313480/188790641-313792c0-99a5-4084-8d68-82057b3dc6fb.png)
-
 
 
 ## Getting started
