@@ -3,7 +3,7 @@
 
 
 
-[![URL Shortener](https://img.youtube.com/vi/RqL24zTrIlM/hqdefault.jpg)](https://www.youtube.com/embed/RhRIFjyzIqU)
+[![URL Shortener](https://img.youtube.com/vi/RqL24zTrIlM/hqdefault.jpg)](https://www.youtube.com/embed/RqL24zTrIlM)
 
 
 Building a sample URL shortener using [TypeScript](https://www.typescriptlang.org/), [Nest](https://nestjs.com/) and Docker Desktop
